@@ -1,0 +1,15 @@
+{
+  "name": "olx-crawler-br",
+  "version": "1.0.0",
+  "description": "OLX Crawler.br é um projeto de web scraping desenvolvido com Node.js e Puppeteer para extrair informações de anúncios no site OLX. O crawler captura dados como preço, descrição e imagens dos anúncios de produtos, proporcionando uma maneira automatizada de obter informações diretamente da plataforma OLX.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^23.4.0"
+  }
+}
